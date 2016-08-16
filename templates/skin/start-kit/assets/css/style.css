@@ -1,0 +1,68 @@
+/**
+* Плагин LiveStream v.0.2 для AltoCMS
+* Файл стилей
+*/
+
+.panel-navigation {
+    height: 38px;
+}
+
+.panel-navigation ul { 
+    list-style: none; 
+    padding-left: 0;
+}
+
+.js-widget-stream-navs > li > a {
+    color: #363535;
+}
+
+.js-widget-stream-navs>li>a {
+    border-radius: 0;
+}
+.js-widget-stream-navs>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+
+.js-widget-stream-navs > li > a {
+    font-size: 12px;
+}
+
+.js-widget-stream-navs > li > a {
+    padding: 4px 6px;
+}    
+
+.js-widget-stream-navs>li {
+    float: left;
+}
+
+.js-widget-stream-navs li.active, .js-widget-stream-navs a.active {
+    color: #fff;
+    background-color: #00afd1;
+    border-color: #00afd1;
+    text-decoration: none;
+}
+
+.js-widget-stream-navs li:hover {
+    background-color: #eee;
+} 
+
+.js-widget-stream-navs a:hover {
+    text-decoration: none;
+} 
+
+.js-widget-stream-navs li, .js-widget-stream-navs > .panel-heading {
+    background-color: #f6f6f6;
+    border: 1px solid #d6d6d6;
+    
+}
+
+.js-widget-stream-navs>li+li {
+    margin-left: 2px;
+    margin-bottom: 6px;
+}
+
+.js-widget-stream-navs>li {
+    float: left;
+}
