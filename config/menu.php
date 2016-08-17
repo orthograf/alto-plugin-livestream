@@ -143,7 +143,7 @@ $config['data']['livestream_icons'] = array(
                 'data' => array(
                 'toggle' => 'tooltip',
                 'container' => 'body',
-                'placement' => 'top',
+                'placement' => 'top', // Описане настройки http://getbootstrap.com/javascript/#four-directions
                 'original-title' => 'Весь эфир',
                 ),
             ),
@@ -163,7 +163,7 @@ $config['data']['livestream_icons'] = array(
                 'data' => array(
                 'toggle' => 'tooltip',
                 'container' => 'body',
-                'placement' => 'top',
+                'placement' => 'top', // Описане настройки http://getbootstrap.com/javascript/#four-directions
                 'original-title' => 'Я слежу',
                 ),
             ),
@@ -183,7 +183,7 @@ $config['data']['livestream_icons'] = array(
                 'data' => array(
                 'toggle' => 'tooltip',
                 'container' => 'body',
-                'placement' => 'top',
+                'placement' => 'top', // Описане настройки http://getbootstrap.com/javascript/#four-directions
                 'original-title' => 'Комментарии',
                 ),
             ),
@@ -203,7 +203,7 @@ $config['data']['livestream_icons'] = array(
                 'data' => array(
                 'toggle' => 'tooltip',
                 'container' => 'body',
-                'placement' => 'top',
+                'placement' => 'top', // Описане настройки http://getbootstrap.com/javascript/#four-directions
                 'original-title' => 'Публикации',
                 ),
             ),
@@ -238,7 +238,7 @@ $config['data']['livestream_show_icons'] = array(
                 'data' => array(
                 'toggle' => 'tooltip',
                 'container' => 'body',
-                'placement' => 'top',
+                'placement' => 'top', // Описане настройки http://getbootstrap.com/javascript/#four-directions
                 'original-title' => 'Весь эфир',
                 ),
             ),
@@ -258,7 +258,7 @@ $config['data']['livestream_show_icons'] = array(
                 'data' => array(
                 'toggle' => 'tooltip',
                 'container' => 'body',
-                'placement' => 'top',
+                'placement' => 'top', // Описане настройки http://getbootstrap.com/javascript/#four-directions
                 'original-title' => 'Я слежу',
                 ),
             ),
@@ -372,7 +372,7 @@ $config['data']['livestream_menu_icons'] = array(
                 'data' => array(
                 'toggle' => 'tooltip',
                 'container' => 'body',
-                'placement' => 'top',
+                'placement' => 'top', // Описане настройки http://getbootstrap.com/javascript/#four-directions
                 'original-title' => 'Весь эфир',
                 ),
             ),
@@ -392,7 +392,7 @@ $config['data']['livestream_menu_icons'] = array(
                 'data' => array(
                 'toggle' => 'tooltip',
                 'container' => 'body',
-                'placement' => 'top',
+                'placement' => 'top', // Описане настройки http://getbootstrap.com/javascript/#four-directions
                 'original-title' => 'Комментарии',
                 ),
             ),
@@ -412,7 +412,7 @@ $config['data']['livestream_menu_icons'] = array(
                 'data' => array(
                 'toggle' => 'tooltip',
                 'container' => 'body',
-                'placement' => 'top',
+                'placement' => 'top', // Описане настройки http://getbootstrap.com/javascript/#four-directions
                 'original-title' => 'Публикации',
                 ),
             ),
@@ -447,7 +447,7 @@ $config['data']['livestream_menu_show_icons'] = array(
                 'data' => array(
                 'toggle' => 'tooltip',
                 'container' => 'body',
-                'placement' => 'top',
+                'placement' => 'top', // Описане настройки http://getbootstrap.com/javascript/#four-directions
                 'original-title' => 'Весь эфир',
                 ),
             ),
